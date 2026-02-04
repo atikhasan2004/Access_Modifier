@@ -1,0 +1,14 @@
+E:\VS code\Access_5\bin\Debug\net9.0\Access_5.exe
+E:\VS code\Access_5\bin\Debug\net9.0\Access_5.deps.json
+E:\VS code\Access_5\bin\Debug\net9.0\Access_5.runtimeconfig.json
+E:\VS code\Access_5\bin\Debug\net9.0\Access_5.dll
+E:\VS code\Access_5\bin\Debug\net9.0\Access_5.pdb
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.AssemblyInfoInputs.cache
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.AssemblyInfo.cs
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.csproj.CoreCompileInputs.cache
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.dll
+E:\VS code\Access_5\obj\Debug\net9.0\refint\Access_5.dll
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.pdb
+E:\VS code\Access_5\obj\Debug\net9.0\Access_5.genruntimeconfig.cache
+E:\VS code\Access_5\obj\Debug\net9.0\ref\Access_5.dll

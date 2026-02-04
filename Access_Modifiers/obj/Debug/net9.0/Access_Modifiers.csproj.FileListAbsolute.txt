@@ -1,0 +1,14 @@
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.AssemblyInfoInputs.cache
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.AssemblyInfo.cs
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.csproj.CoreCompileInputs.cache
+E:\VS code\Access_Modifiers\bin\Debug\net9.0\Access_Modifiers.exe
+E:\VS code\Access_Modifiers\bin\Debug\net9.0\Access_Modifiers.deps.json
+E:\VS code\Access_Modifiers\bin\Debug\net9.0\Access_Modifiers.runtimeconfig.json
+E:\VS code\Access_Modifiers\bin\Debug\net9.0\Access_Modifiers.dll
+E:\VS code\Access_Modifiers\bin\Debug\net9.0\Access_Modifiers.pdb
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.dll
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\refint\Access_Modifiers.dll
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.pdb
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\Access_Modifiers.genruntimeconfig.cache
+E:\VS code\Access_Modifiers\obj\Debug\net9.0\ref\Access_Modifiers.dll
